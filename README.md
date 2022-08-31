@@ -1,8 +1,9 @@
 # Equilibrium & Genshiro
 
-<div style="text-align:center">
-<img src="./assets/eq-logo.svg" width="350">
-<img src="./assets/gens-logo.svg" width="350">
+<div align="center">
+<img src="./assets/eq-logo.svg" height="100">
+&nbsp&nbsp&nbsp
+<img src="./assets/gens-logo.svg" height="100">
 </div>
 
 ___
