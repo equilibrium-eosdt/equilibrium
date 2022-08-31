@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "pallets/*",
+    "eq-primitives",
+    "eq-utils",
+]

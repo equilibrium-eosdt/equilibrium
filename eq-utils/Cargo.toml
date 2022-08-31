@@ -1,0 +1,26 @@
+[package]
+authors = ["equilibrium"]
+edition = "2018"
+name = "utils"
+version = "1.0.0"
+
+[dependencies.log]
+version = "0.4.17"
+default-features = false
+
+[dependencies.sp-runtime]
+git = "https://github.com/paritytech/substrate"
+branch = "polkadot-v0.9.24"
+default-features = false
+
+[dependencies.sp-io]
+git = "https://github.com/paritytech/substrate"
+branch = "polkadot-v0.9.24"
+default-features = false
+
+[features]
+default = ["std"]
+std = [
+    "log/std",
+    "sp-runtime/std",
+]
