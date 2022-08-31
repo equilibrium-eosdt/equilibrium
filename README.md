@@ -1,19 +1,21 @@
-# Equilibrium
+# Equilibrium & Genshiro
 
-<div style="text-align:center"><img src="./assets/logo.svg" width="600"></div>
+<div style="text-align:center">
+<img src="./assets/eq-logo.svg" width="350">
+<img src="./assets/gens-logo.svg" width="350">
+</div>
 
 ___
 
-## Equilibrium is a DeFi 2.0 cross-chain money market protocol with high leverage. With Equilibrium users can:
+## Equilibrium is a DeFi 2.0 cross-chain money market protocol with high leverage.
+With Equilibrium users can:
 - Lend: lend out assets and earn interest fees. 
 - Borrow: borrow assets for trading, leveraging, and hedging using portfolios of collateral.
 - Trade: exchange crypto assets and trade spot markets on margin
 - Insure: provide liquidity to cover potential borrower losses, and earn a yield on it
 - Earn: passive income via market maker liquidity pools and liquidity farming incentives
 
-
-
-# Equilibrium
+# Equilibrium chain
 
 See [`docs.equilibrium.io`](https://docs.equilibrium.io/)
 
@@ -43,7 +45,7 @@ Here is what sets Equilibrium apart from other well-known known DeFi protocols:
 - The thought-out design of Polkadot’s consensus and finality mechanisms guarantees the security of the Equilibrium substrate on the blockchain level. Approximately 10 collators manage the Equilibrium parachain with a POA consensus and shared GRANDPA finality and blockchain security provided out of the box by Polkadot.
 - Equilibrium achieves cross-chain compatibility by way of Polkadot’s integration of third party bridges to different blockchains. Ecosystem-wide interoperability is further achieved with the help of the Polkadot's XCM protocol.
 
-# Genshiro
+# Genshiro chain
 
 See [`docs.genshiro.io`](https://docs.genshiro.io/)
 
